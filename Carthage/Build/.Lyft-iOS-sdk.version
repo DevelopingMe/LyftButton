@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "1.0.4",
+  "iOS" : [
+    {
+      "hash" : "90030ae2176577c84d548563659e0199b7d46329de083be043de1391107cc586",
+      "name" : "LyftSDK"
+    }
+  ]
+}
